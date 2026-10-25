@@ -1,0 +1,3 @@
+# TEMPLATE ONLY — do not commit real credentials.
+# Replace YOUR_SAS_ODA_USERNAME and YOUR_SAS_ODA_PASSWORD locally.
+oda user YOUR_SAS_ODA_USERNAME password YOUR_SAS_ODA_PASSWORD

@@ -1,0 +1,20 @@
+# SAS credentials and local configuration
+_authinfo
+_saspy_runtime_cfg.py
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# SAS outputs
+*.log
+*.lst
+*.html
+*.pdf
+
+# Editor and OS
+.vscode/
+.DS_Store
+Thumbs.db

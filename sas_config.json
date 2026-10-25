@@ -1,0 +1,17 @@
+
+{
+    "config_name": "oda",
+    "region": "AP1",
+    "java_path": "C:\\Program Files\\Eclipse Adoptium\\jdk-17.0.20.8-hotspot\\bin\\java.exe",
+    "iom_host": "odaws01-apse1.oda.sas.com",
+    "iom_port": 8591,
+    "authkey": "oda",
+    "authinfo": "_authinfo",
+    "encoding": "utf-8",
+    "global_utils": "D:\\Work\\MyGithub\\systems-nexus\\global_utils",
+    "local_paths": {
+        "logs": "D:\\CodeVista\\Logs",
+        "results": "D:\\CodeVista\\Results",
+        "files": "D:\\CodeVista\\Files"
+    }
+}
